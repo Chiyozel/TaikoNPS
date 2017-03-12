@@ -1,0 +1,3 @@
+# TaikoNPS
+
+i was bored
